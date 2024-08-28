@@ -7,6 +7,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+https://cran.r-project.org/web/packages/dataRetrieval/vignettes/dataRetrieval.html#daily-data
+
 ```{r}
 library(tidyverse)
 library(dataRetrieval)
